@@ -14,6 +14,12 @@
 
 ### Mobile View 👀
 <div align="center" style="display: flex; justify-content:space-around">
-<img src="./img/screenshots/Manage-mobile-view.png"/>
-<img src="./img/screenshots/Manage-mobile-view-2.png"/>
+<div><img src="./img/screenshots/Manage-mobile-view.png"/></div>
+<div><img src="./img/screenshots/Manage-mobile-view.png"/></div>
 </div>
+
+### Authors 🖊️
+
+This project was contributed to by:
+
+- [Douglas Obara](https://github.com/douglas254/)
