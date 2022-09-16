@@ -14,7 +14,7 @@
 
 ### Mobile View 👀
 <div align="center" style="display: flex; justify-content:space-around">
-<img src="./img/screenshots/Manage-mobile-view.png"/><img src="./img/screenshots/Manage-mobile-view.png"/>
+<img src="./img/screenshots/Manage-mobile-view.png"/><img src="./img/screenshots/Manage-mobile-view-2.png"/>
 </div>
 
 ### Authors 🖊️
